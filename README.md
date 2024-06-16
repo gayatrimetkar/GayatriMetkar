@@ -1,4 +1,4 @@
-![logo](https://user-images.githubusercontent.com/67194519/173735367-b75edb3b-61ec-4323-a10f-5d98e1d7b97a.gif)
+![logo](C:\Users\Gauli\Downloads\github-header-image (1).png)
 <h1 align="center">Hi 👋, I'm Gayatri Metkar</h1>
 <h3 align="center">A passionate Software Tester from India</h3>
 <h3>Detail-oriented software tester with a proven track record of identifying and resolving complex software issues.</h3>
