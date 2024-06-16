@@ -1,4 +1,4 @@
-![logo](C:\Users\Gauli\Downloads\github-header-image (1).png)
+![logo](https://leviarista.github.io/github-profile-header-generator/images/decorations/my-octocat.png)
 <h1 align="center">Hi 👋, I'm Gayatri Metkar</h1>
 <h3 align="center">A passionate Software Tester from India</h3>
 <h3>Detail-oriented software tester with a proven track record of identifying and resolving complex software issues.</h3>
