@@ -1,4 +1,4 @@
-![logo](https://t4.ftcdn.net/jpg/04/77/24/97/240_F_477249768_Op399VWL98kY93XnOc10DL8RE5TnnwVd.jpg)
+![logo](https://t3.ftcdn.net/jpg/04/87/03/26/240_F_487032630_OVOdoQ0E9FFMrvHXote9JsmvFLxIKMN3.jpg)
 <h1 align="center">Hi 👋, I'm Gayatri Metkar</h1>
 <h3 align="center">A passionate Software Tester from India</h3>
 <h3>Detail-oriented software tester with a proven track record of identifying and resolving complex software issues.</h3>
