@@ -1,6 +1,20 @@
-# Welcome to [Gayatri Metkar] profile! 
+![logo](https://user-images.githubusercontent.com/67194519/173735367-b75edb3b-61ec-4323-a10f-5d98e1d7b97a.gif)
+<h1 align="center">Hi 👋, I'm Gayatri Metkar</h1>
+<h3 align="center">A passionate Software Tester from India</h3>
+<h3>Detail-oriented software tester with a proven track record of identifying and resolving complex software issues.</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=krutikajalandar78&label=Profile%20views&color=0e75b6&style=flat" alt="krutikajalandar" /> </p>
+<img align="right" alt="coding" width="300" height="200" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHqm3WYr1vgqG-u3xol6tbHW-JFeiTNhcGfA&s">
+- 🔭 I’m currently pursing <b>Master in Computer Application</b><br>
 
-<a href="https://www.linkedin.com/in/Gayatri Metkar/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aswin-barath" height="30" width="40" /></a>
+- 🌱 I’m currently learning <b>Automation Testing using Selenium with JAVA</b><br>
+
+- 💬 Ask me about <b>Manual Testing concept like SDLC,STLC,Defect Life Cycle,Jira,Agile, JAVA,Selenium</b><br>
+
+- 📫 How to reach me <b>gayatrimetkar13@gmail.com</b>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/GayatriMetkar/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aswin-barath" height="30" width="40" /></a>
 &nbsp;
 <a href="https://www.instagram.com/gayatri__1304/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aswin_barath_" height="30" width="40" /></a>
 &nbsp;
