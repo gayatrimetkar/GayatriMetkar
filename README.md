@@ -1,4 +1,4 @@
-![logo](https://www.google.com/url?sa=i&url=http%3A%2F%2Fsetup.chambermaster.com%2Fitem%2Fm1125537%2F%3Fy%3Dbeautify-your-github-profile-like-a-pro-by-nihal-gg-33XyKXf5&psig=AOvVaw07IktckV1thLbRhKsERH7u&ust=1718637916839000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCJCJiMe34IYDFQAAAAAdAAAAABAI)
+![logo](https://retool-blog.ghost.io/blog/content/images/2022/02/gotchas-git-github-banner-1.png)
 <h1 align="center">Hi 👋, I'm Gayatri Metkar</h1>
 <h3 align="center">A passionate Software Tester from India</h3>
 <h3>Detail-oriented software tester with a proven track record of identifying and resolving complex software issues.</h3>
