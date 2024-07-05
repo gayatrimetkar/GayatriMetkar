@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Gayatri Metkar</h1>
 <h3 align="center">A passionate Software Tester from India</h3>
 <h3>Detail-oriented software tester with a proven track record of identifying and resolving complex software issues.</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=krutikajalandar78&label=Profile%20views&color=0e75b6&style=flat" alt="krutikajalandar" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=krutikajalandar78&label=Profile%20views&color=0e75b6&style=flat" alt="gayatrimetkar" /> </p>
 <img align="right" alt="coding" width="300" height="200" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHqm3WYr1vgqG-u3xol6tbHW-JFeiTNhcGfA&s">
 - 🔭 I’m currently pursing <b>Master in Computer Application</b><br>
 
@@ -10,7 +10,7 @@
 
 - 💬 Ask me about <b>Manual Testing concept like SDLC,STLC,Defect Life Cycle,Jira,Agile, JAVA,Selenium</b><br>
 
-- 📫 How to reach me <b>gayatrimetkar13@gmail.com</b>
+- 📫 How to reach me <b>metkargayatri13@gmail.com</b>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
